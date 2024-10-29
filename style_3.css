@@ -1,0 +1,28 @@
+
+body{
+    
+	background-image: url(Machinery.png);
+  background-size:cover;
+  f:white;
+
+}
+
+.vl {
+  border: 6px white;
+  height: 800px;
+
+}
+.image{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.button::after{
+    content:"";
+    display: table;
+    clear: both;
+    
+}
+.cart.body{
+	text-align:top-right;
+}

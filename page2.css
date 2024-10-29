@@ -1,0 +1,28 @@
+.machinery{
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+	body{
+    
+        background-image:url("Background.png");
+        background-size: cover;
+        height:100vh;
+        margin-right: 0%;
+        margin-bottom: 0%; 
+
+}
+.Headding{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+.Seeds{
+    text-align: center;
+}
+.Fertilizers{
+    text-align: center;
+}
+
